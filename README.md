@@ -12,16 +12,21 @@ To Design the various parts of a mechanical component and assemble it using a bo
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## COMMANDS USED:
+
 ### Align: 
 The Align tool allows you to align, distribute or organize selected elements, annotations, tags and text along the axis you specify. Furthermore, the Arrange feature will automatically neatly place your tags around the current view.
+
 The Align plug-in for Autodesk® Revit® can help to save time while producing complex drawings with large sets of annotation.
+
 Just select a few elements and the Align tool will sort them for you.
 
 ### Derive:
 Insert design elements such as Components, Bodies, Sketches, Work geometry, Flat patterns or parameters from another design.
+
 The inserted elements update with changes to the original design
 
 ### Move: Moves the selected face, body, sketch, or construction geometry a specified distance or angle.
+
 Select the objects to modify then specify the distance or angle. Use set pivot to reposition the manipulator
 
 ## PROCEDURE:
@@ -63,6 +68,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+![](/EXP%206.png)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
